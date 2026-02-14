@@ -1,0 +1,14 @@
+{
+  "name": "bgd-vibes",
+  "version": "0.1.0",
+  "description": "Board Game Day event management web app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo 'Run: cd backend && bun run dev' && echo 'In another terminal: cd frontend && bun run dev'",
+    "dev:backend": "bun run dev --cwd backend",
+    "dev:frontend": "bun run dev --cwd frontend",
+    "build": "bun run build --cwd frontend && bun run build --cwd backend",
+    "start": "bun run start --cwd backend"
+  }
+}

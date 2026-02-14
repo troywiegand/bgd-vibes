@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Green Team Wins",
+    "description": "A team-based party game where you work together to achieve victory. Perfect for large groups!",
+    "category": "Round 1",
+    "bgg_url": "https://boardgamegeek.com/boardgame/347805/green-team-wins",
+    "how_to_play_url": "https://www.youtube.com/watch?v=eSvtsm3QZKA",
+    "player_count_min": 3,
+    "player_count_max": 12
+  },
+  {
+    "name": "Sagrada",
+    "description": "Beautifully craft stained glass windows by drafting colored dice and building patterns.",
+    "category": "Round 2",
+    "bgg_url": "https://boardgamegeek.com/boardgame/199561/sagrada",
+    "how_to_play_url": "https://www.youtube.com/watch?v=WXNr7BHtf1w",
+    "player_count_min": 1,
+    "player_count_max": 4
+  },
+  {
+    "name": "Concordia",
+    "description": "Trade goods across the Roman Empire and build trading empires in this economic strategy game.",
+    "category": "Round 2",
+    "bgg_url": "https://boardgamegeek.com/boardgame/199561/sagrada",
+    "how_to_play_url": "https://www.youtube.com/watch?v=WXNr7BHtf1w",
+    "player_count_min": 1,
+    "player_count_max": 4
+  },
+  {
+    "name": "Graft",
+    "description": "Build and cultivate botanical collections in this elegant set collection game.",
+    "category": "Round 2",
+    "bgg_url": "https://boardgamegeek.com/boardgame/445423/graft",
+    "how_to_play_url": "https://www.youtube.com/watch?v=xj9oIgcmXCs",
+    "player_count_min": 3,
+    "player_count_max": 5
+  },
+  {
+    "name": "Grimoire",
+    "description": "Cast spells and manage your magical library in this strategic card game.",
+    "category": "Round 2",
+    "bgg_url": "https://boardgamegeek.com/boardgame/73863/grimoire",
+    "how_to_play_url": "https://boardgamegeek.com/boardgame/73863/grimoire",
+    "player_count_min": 3,
+    "player_count_max": 5
+  },
+  {
+    "name": "Forbidden Island",
+    "description": "Work together to escape a sinking island and recover treasures before it's too late.",
+    "category": "Round 2",
+    "bgg_url": "https://boardgamegeek.com/boardgame/65244/forbidden-island",
+    "how_to_play_url": "https://www.youtube.com/watch?v=S2GCP55_FOc",
+    "player_count_min": 2,
+    "player_count_max": 4
+  },
+  {
+    "name": "Viceroy",
+    "description": "Build your own medieval nation through strategic card play and resource management.",
+    "category": "Round 3",
+    "bgg_url": "https://boardgamegeek.com/boardgame/157526/viceroy",
+    "how_to_play_url": "https://www.youtube.com/watch?v=mqmKhBO01TE",
+    "player_count_min": 2,
+    "player_count_max": 4
+  },
+  {
+    "name": "Night Parade",
+    "description": "Navigate a magical festival of spirits in this charming and strategic game.",
+    "category": "Round 3",
+    "bgg_url": "https://boardgamegeek.com/boardgame/320718/hidden-leaders",
+    "how_to_play_url": "https://www.youtube.com/watch?v=XibJ881r8Ds",
+    "player_count_min": 2,
+    "player_count_max": 4
+  },
+  {
+    "name": "A Place For All My Books",
+    "description": "Organize your library with style and strategy in this cozy, relaxing puzzle game.",
+    "category": "Round 3",
+    "bgg_url": "https://boardgamegeek.com/boardgame/431481/a-place-for-all-my-books",
+    "how_to_play_url": "https://www.youtube.com/watch?v=1Xw9BjBs9bo",
+    "player_count_min": 1,
+    "player_count_max": 4
+  },
+  {
+    "name": "Hidden Leaders",
+    "description": "Uncover your opponents' hidden identities while trying to hide your own in this deduction game.",
+    "category": "Round 4",
+    "bgg_url": "https://boardgamegeek.com/boardgame/320718/hidden-leaders",
+    "how_to_play_url": "https://www.youtube.com/watch?v=JAn7vh0jzwc",
+    "player_count_min": 2,
+    "player_count_max": 6
+  },
+  {
+    "name": "Skyjo",
+    "description": "Race to lowest score by playing cards strategically in this fast-paced card game.",
+    "category": "Round 4",
+    "bgg_url": "https://boardgamegeek.com/boardgame/204135/skyjo",
+    "how_to_play_url": "https://www.youtube.com/watch?v=I5tQDPW30yw",
+    "player_count_min": 2,
+    "player_count_max": 8
+  },
+  {
+    "name": "Point Salad",
+    "description": "Pick vegetables and score points in this fast, accessible party game.",
+    "category": "Round 4",
+    "bgg_url": "https://boardgamegeek.com/boardgame/274960/point-salad",
+    "how_to_play_url": "https://www.youtube.com/watch?v=yi3wODxl8RM",
+    "player_count_min": 2,
+    "player_count_max": 6
+  },
+  {
+    "name": "Mantis",
+    "description": "Command your insect army to victory in this tactical combat game.",
+    "category": "Round 4",
+    "bgg_url": "https://boardgamegeek.com/boardgame/358690/mantis",
+    "how_to_play_url": "https://www.youtube.com/watch?v=jSfY3jeY278",
+    "player_count_min": 2,
+    "player_count_max": 6
+  }
+]

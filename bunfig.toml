@@ -1,0 +1,8 @@
+[install]
+optional = false
+
+[runtime]
+tsx = "bun"
+
+[test]
+timeout = "5m"
